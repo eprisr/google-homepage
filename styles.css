@@ -1,0 +1,70 @@
+.nav-bar {
+	padding: 10px 10px;
+	height: 30px;
+}
+
+.navigation {
+	display: block;
+	position: relative;
+	float: none;
+}
+
+.navigation li {
+	display: inline;
+	font-family: Arial, Helvetica, Sans-serif;
+}
+
+.first-two-nav {
+	float: left;
+}
+
+.last-two-nav {
+	float: right;
+}
+
+.main {
+	width: 100%;
+	height: 400px;
+}
+
+.logo {
+	display: block;
+	padding-top: 109px;
+	text-align: center;
+}
+
+.google-logo {
+	display: block;
+	margin: auto;
+	height: 233px
+	padding-top: 109px;
+}
+
+.google-search {
+	padding: 18px 0px;
+	width: 530px;
+}
+
+.google-logo, .google-search{
+	margin: auto;
+}
+
+.google-search .search input {
+	width: 100%;
+}
+
+.submit {
+	display: block;
+	padding: 16px;
+	text-align: center;
+	margin: auto;
+	width: 530px;
+}
+
+#gs, #ifl {
+	padding: 16px;
+	border: 1px;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+}
